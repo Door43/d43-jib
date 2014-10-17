@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jib:home|Door43 (jib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jib|d43-jib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jib/archive/master.zip|d43-jib.zip]]
+
+**Recent Changes**
+{{changes>ns = jib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jib|Ethnologue data]]
+
